@@ -1,0 +1,1 @@
+# Dead-Blind-Zone-Free-PFD-Design-for-PLL-on-TSMC-65nm-Tech
